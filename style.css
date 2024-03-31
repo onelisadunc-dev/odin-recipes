@@ -1,0 +1,18 @@
+/*GLOBAL */ 
+
+* {
+    color: darkolivegreen;
+}
+
+/* HEADINGS */
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+/* BODY */
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
